@@ -1,0 +1,26 @@
+{
+  "name": "devcamp-2687351",
+  "version": "1.0.0",
+  "description": "Proyect para la clase de JSBackend, Instructor CBO, SENA CGMLTI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev":"nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebamo343/devcam_2687351.git"
+  },
+  "author": "Sebastian Leonardo Morales Botia - Heidy Dayanna Martinez Cardenas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sebamo343/devcam_2687351/issues"
+  },
+  "homepage": "https://github.com/Sebamo343/devcam_2687351#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
